@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "joe",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "Testing edit",
+      "description": "this is programatic navigation",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "hello",
+      "userId": "117067309447542813255",
+      "id": 6
+    }
+  ]
+}
